@@ -1,0 +1,2 @@
+# Predicting-the-key-features-for-increased-car-accessibility-among-customers
+Visualized the effect of various factors effecting car accessibility among customers. This helps the car manufacturers to  design cars emphasizing on features that lead to car acceptability.  Supervised classification was performed on several predictors to assess the accuracy and the key predictors which contribute to the Car Evaluation. The visualization and algorithms are done in RStudio.
